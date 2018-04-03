@@ -4,7 +4,7 @@ permalink: "/files/estudiantes-doctorado"
 layout: page
 ---
 
-### Instituto de Física_, Universidad de Antioquia
+### Instituto de Física, Universidad de Antioquia
 
 <!-- Markdown is fully compatible with html -->
 
