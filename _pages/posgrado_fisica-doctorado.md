@@ -11,4 +11,4 @@ categories:
 Acreditación de alta calidad por ocho (8) años, _resolución número_: 6020 del 1 de junio de 2012, del __Ministerio de Educación Nacional__
 
 <!-- in repository: ./files/estudiantes.md-->
-### [Estudiantes](/files/estudiantes)
+### [Estudiantes](/files/estudiantes-doctorado)
