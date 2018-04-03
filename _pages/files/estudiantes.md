@@ -1,6 +1,6 @@
 ---
 title: Estudiantes de doctorado
-permalink: "/posgrado/_files+estudiantes"
+permalink: "/files/estudiantes"
 layout: page
 ---
 
