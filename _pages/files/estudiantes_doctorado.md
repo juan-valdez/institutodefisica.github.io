@@ -4,8 +4,7 @@ permalink: "/files/estudiantes-doctorado"
 layout: page
 ---
 
-### Estudiantes de doctorado
-_Instituto de Física_, __Universidad de Antioquia__
+### Instituto de Física_, Universidad de Antioquia
 
 <!-- Markdown is fully compatible with html -->
 
