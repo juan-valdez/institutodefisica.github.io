@@ -1,3 +1,9 @@
+---
+title: Estudiantes de doctorado
+permalink: "/posgrado/files-estudiantes-doctorado"
+layout: page
+---
+
 ### Estudiantes de doctorado
 _Instituto de Física_, __Universidad de Antioquia__
 
